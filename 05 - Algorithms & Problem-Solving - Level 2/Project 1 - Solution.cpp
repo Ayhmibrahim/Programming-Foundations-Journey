@@ -224,9 +224,18 @@ void ShowFinalGameResults(stGameResults GameResults)
 short ReadHowManyRounds()
 {
 	short Number;
-
 	std::cout << "How Many Rounds 1 to 10 ?\n";
 	cin >> Number;
+
+	while (cin.fail())
+	{
+		cin.clear();
+		cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+
+		cout << "Invalid Number, Enter a valid one: " << endl;
+
+		cin >> Number;
+	}
 
 	return Number;
 }
