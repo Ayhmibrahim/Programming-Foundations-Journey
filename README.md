@@ -1,18 +1,20 @@
-# 🗺️ Programming Foundations Roadmap - Logic Building Journey
+# 🗺️ Programming Foundations Roadmap — Logic Building Journey
 
 > **"Mastering the basics is what creates a proficient programmer."** 🧠
 
-📌 This repository documents my educational journey in building a solid foundation in Computer Science and Programming, following the official **[Programming Advices Roadmap](https://programmingadvices.com/p/roadmaps)**. The goal is to evolve from understanding simple code to solving complex problems and building structured applications.
+This repository documents my educational journey toward building a strong foundation in Computer Science and Programming, following the official **[Programming Advices Roadmap](https://programmingadvices.com/p/roadmaps)**.
+
+The goal is to progress from understanding programming fundamentals to solving complex problems, designing structured applications, and developing professional software development skills.
 
 ---
 
 ## 🛠️ Skills Acquired So Far
 
-- **C++ Language:** Strong understanding of C++ fundamentals, OOP, data structures, memory management, pointers, and practical programming concepts.
-- **Problem Solving:** Solved hundreds of programming problems to develop strong logical thinking and problem-solving skills.
+- **C++ Programming:** Strong understanding of C++ fundamentals, Object-Oriented Programming, data structures, memory management, pointers, and practical programming concepts.
+- **Problem Solving:** Solved hundreds of programming problems to strengthen logical thinking, analytical skills, and problem-solving abilities.
 - **Object-Oriented Programming:** Learned and applied Classes, Objects, Encapsulation, Inheritance, Polymorphism, Constructors, Destructors, Static Members, and other OOP concepts.
-- **Data Structures:** Implemented and practiced fundamental data structures including Singly Linked Lists, Doubly Linked Lists, Stacks, and Queues.
-- **Data Management:** Worked with text files as simple databases and developed string processing and data manipulation logic.
+- **Data Structures:** Implemented and practiced fundamental data structures, including Singly Linked Lists, Doubly Linked Lists, Stacks, and Queues.
+- **Data Management:** Worked with text files as simple databases and developed string processing, parsing, and data manipulation logic.
 - **Functional Systems:** Built structured applications such as Bank Management and ATM-style systems by combining multiple programming concepts.
 - **Code Organization:** Practiced separating functionality into reusable components and building structured libraries.
 
@@ -20,18 +22,14 @@
 
 ## 🛤️ Roadmap Levels
 
-| Level | Phase Name | Status |
-| :--- | :--- | :--- |
+| Level | Phase | Status |
+|:---:|---|:---:|
 | **01** | [Programming Foundations - Level 1](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/01%20-%20Programming%20Foundations%20-%20Level%201) | ✅ Completed |
 | **02** | [Algorithms & Problem Solving - Level 1](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/02%20-%20Algorithms%20%26%20Problem-Solving%20Level%201) | ✅ Completed |
 | **03** | [Introduction to Programming with C++ - Level 1](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/03%20-%20Introduction%20to%20Programming%20with%20C%2B%2B%20-%20Level%201) | ✅ Completed |
 | **04** | [Algorithms & Problem Solving - Level 1 (Solutions)](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/04%20-%20Algorithms%20%26%20Problem-Solving%20-%20Level%201%20%28Solutions%29) | ✅ Completed |
-<<<<<<< HEAD
-| **05** | [Algorithms & Problem Solving - Level 2] (https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/05%20-%20Algorithms%20%26%20Problem-Solving%20-%20Level%202) | ✅ Completed |
-=======
 | **05** | [Algorithms & Problem Solving - Level 2](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/05%20-%20Algorithms%20%26%20Problem-Solving%20-%20Level%202) | ✅ Completed |
->>>>>>> 412b9d1 (Update README.md)
-| **06** | [Introduction to Programming Using C++ - Level 2](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/06%20-%20Introduction%20to%20Programming%20Using%20C%2B%2B%20Level) | ✅ Completed |
+| **06** | [Introduction to Programming Using C++ - Level 2](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/06%20-%20Introduction%20to%20Programming%20Using%20C%2B%2B%20Level%202) | ✅ Completed |
 | **07** | [Algorithms & Problem Solving - Level 3](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/07%20-%20Algorithms%20%26%20Problem%20Solving%20Level%203) | ✅ Completed |
 | **08** | [Algorithms & Problem Solving - Level 4](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/08%20-%20Algorithms%20%26%20Problem%20Solving%20Level%204) | ✅ Completed |
 | **09** | [Programming Foundations - Level 2](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/09%20-%20Programming%20Foundations%20Level%202) | ✅ Completed |
@@ -46,10 +44,10 @@
 
 Each level within this roadmap contains:
 
-1. **Source Code:** Solutions to programming challenges and exercises.
-2. **Projects:** Functional systems that integrate the concepts learned throughout the roadmap.
-3. **Certificates:** Official documentation for completing each stage.
-4. **Practice:** Exercises designed to strengthen programming logic and problem-solving skills.
+1. **Source Code** — Solutions to programming challenges and exercises.
+2. **Projects** — Functional systems that integrate the concepts learned throughout the roadmap.
+3. **Certificates** — Documentation for completing each stage.
+4. **Practice** — Exercises designed to strengthen programming logic and problem-solving skills.
 
 ---
 
@@ -57,9 +55,17 @@ Each level within this roadmap contains:
 
 > **🎉 Levels 01–13 Completed!**
 
-I have successfully completed the first 13 levels of the Programming Advices roadmap, covering programming fundamentals, problem solving, C++, Object-Oriented Programming, applications, data structures, and advanced problem-solving practice.
+I have successfully completed the first **13 levels** of the Programming Advices roadmap, covering:
 
-This milestone represents the completion of a strong programming foundation and the transition toward more advanced software development topics.
+- Programming Fundamentals
+- Problem Solving
+- C++
+- Object-Oriented Programming
+- OOP Applications
+- Data Structures
+- Advanced Problem Solving
+
+This milestone represents the completion of a strong programming foundation and marks the transition toward more advanced software development topics.
 
 ---
 
@@ -67,7 +73,14 @@ This milestone represents the completion of a strong programming foundation and 
 
 The primary goal of this journey was to build a strong foundation in programming and problem solving before moving into more advanced software development concepts.
 
-Through consistent practice, projects, and problem-solving challenges, I have developed the ability to understand programming concepts, break problems into smaller parts, design solutions, and implement them using C++.
+Through consistent practice, projects, and problem-solving challenges, I have developed the ability to:
+
+- Understand programming concepts.
+- Break complex problems into smaller parts.
+- Design logical solutions.
+- Implement solutions using C++.
+- Organize code into reusable and maintainable components.
+- Build structured applications using multiple programming concepts.
 
 The journey continues with the goal of transforming this foundation into professional and scalable software development skills.
 
@@ -75,7 +88,7 @@ The journey continues with the goal of transforming this foundation into profess
 
 ## 📌 Current Focus
 
-Now that Levels **01–13** are completed, the next phase is focused on:
+Now that **Levels 01–13** are completed, my current focus is:
 
 - Reviewing and refactoring previous code.
 - Applying **Clean Code** principles.
