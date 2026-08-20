@@ -26,11 +26,15 @@
 | **02** | [Algorithms & Problem Solving - Level 1](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/02%20-%20Algorithms%20%26%20Problem-Solving%20Level%201) | ✅ Completed |
 | **03** | [Introduction to Programming with C++ - Level 1](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/03%20-%20Introduction%20to%20Programming%20with%20C%2B%2B%20-%20Level%201) | ✅ Completed |
 | **04** | [Algorithms & Problem Solving - Level 1 (Solutions)](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/04%20-%20Algorithms%20%26%20Problem-Solving%20-%20Level%201%20%28Solutions%29) | ✅ Completed |
+<<<<<<< HEAD
 | **05** | [Algorithms & Problem Solving - Level 2] (https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/05%20-%20Algorithms%20%26%20Problem-Solving%20-%20Level%202) | ✅ Completed |
+=======
+| **05** | [Algorithms & Problem Solving - Level 2](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/05%20-%20Algorithms%20%26%20Problem-Solving%20-%20Level%202) | ✅ Completed |
+>>>>>>> 412b9d1 (Update README.md)
 | **06** | [Introduction to Programming Using C++ - Level 2](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/06%20-%20Introduction%20to%20Programming%20Using%20C%2B%2B%20Level) | ✅ Completed |
 | **07** | [Algorithms & Problem Solving - Level 3](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/07%20-%20Algorithms%20%26%20Problem%20Solving%20Level%203) | ✅ Completed |
-| **08** | Algorithms & Problem Solving - Level 4 | ✅ Completed |
-| **09** | Programming Foundations - Level 2 | ✅ Completed |
+| **08** | [Algorithms & Problem Solving - Level 4](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/08%20-%20Algorithms%20%26%20Problem%20Solving%20Level%204) | ✅ Completed |
+| **09** | [Programming Foundations - Level 2](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/09%20-%20Programming%20Foundations%20Level%202) | ✅ Completed |
 | **10** | [OOP as it Should Be (Concepts)](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/10%20-%20OOP%20as%20it%20Should%20Be%20%28Concepts%29) | ✅ Completed |
 | **11** | [OOP as it Should Be (Applications)](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/11%20-%20OOP%20as%20it%20Should%20Be%20%28Applications%29) | ✅ Completed |
 | **12** | [Data Structures - Level 1](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/12%20-%20Data%20Structures%20-%20Level1) | ✅ Completed |
