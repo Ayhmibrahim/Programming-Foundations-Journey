@@ -8,6 +8,19 @@ The goal is to progress from understanding programming fundamentals to solving c
 
 ---
 
+---
+
+## 🗺️ Complete Roadmap
+
+The following roadmap illustrates the complete learning path I am following, from programming foundations and problem solving to C#, databases, backend development, and specialization.
+
+![Programming Advices Roadmap](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/blob/main/8qeBfASQSGoT6K3cQuBn_14.jpg)
+
+> 🟢 **Completed:** Levels 01–13  
+> 🔵 **Current Phase:** Building a strong programming foundation and preparing for C# and backend development.
+
+---
+
 ## 🛠️ Skills Acquired So Far
 
 - **C++ Programming:** Strong understanding of C++ fundamentals, Object-Oriented Programming, data structures, memory management, pointers, and practical programming concepts.
