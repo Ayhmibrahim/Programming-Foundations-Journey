@@ -26,7 +26,7 @@
 | **02** | [Algorithms & Problem Solving - Level 1](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/02%20-%20Algorithms%20%26%20Problem-Solving%20Level%201) | ✅ Completed |
 | **03** | [Introduction to Programming with C++ - Level 1](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/03%20-%20Introduction%20to%20Programming%20with%20C%2B%2B%20-%20Level%201) | ✅ Completed |
 | **04** | [Algorithms & Problem Solving - Level 1 (Solutions)](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/04%20-%20Algorithms%20%26%20Problem-Solving%20-%20Level%201%20%28Solutions%29) | ✅ Completed |
-| **05** | Algorithms & Problem Solving - Level 2 | ✅ Completed |
+| **05** | [Algorithms & Problem Solving - Level 2] (https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/05%20-%20Algorithms%20%26%20Problem-Solving%20-%20Level%202) | ✅ Completed |
 | **06** | [Introduction to Programming Using C++ - Level 2](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/06%20-%20Introduction%20to%20Programming%20Using%20C%2B%2B%20Level) | ✅ Completed |
 | **07** | [Algorithms & Problem Solving - Level 3](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/07%20-%20Algorithms%20%26%20Problem%20Solving%20Level%203) | ✅ Completed |
 | **08** | Algorithms & Problem Solving - Level 4 | ✅ Completed |
