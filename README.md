@@ -26,8 +26,11 @@
 | **06** | [Introduction to Programming Using C++ - Level 2](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/06%20-%20Introduction%20to%20Programming%20Using%20C%2B%2B%20Level) | ✅ Completed |
 | **07** | [Algorithms & Problem Solving Level 3](https://github.com/Ayhmibrahim/Programming-Foundations-Journey/tree/main/07%20-%20Algorithms%20%26%20Problem%20Solving%20Level%203) | ✅ Completed |
 | **08** | [Introduction to Programming Using C++ - Level 2]() | 🏗️ In Progress |
-| **09** | [Foundations Level 2]() | 🏗️ In Progress |
+| **09** | [Programming Foundations Level 2]() | 🏗️ In Progress |
 | **010** | [OOP as it Should Be (Concepts)]() | 🏗️ In Progress |
+| **011** | [OOP as it Should Be (Applications)]() | 🏗️ In Progress |
+| **012** | [Data Structures - Level1]() | 🏗️ In Progress |
+| **013** | [Algorithms & Problem Solving Level 5]() | 🏗️ In Progress |
 
 
 ---
